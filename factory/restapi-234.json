@@ -1,0 +1,9 @@
+{
+	"name": "restapi-234",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ae5264a-3706-4bbf-9ad9-9efe95d06c96",
+		"tenantId": "5e93ff23-b9d3-4148-aff2-d4de91b3680d"
+	}
+}
